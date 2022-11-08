@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao
+END
+DAONotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAONotFoundException.java
+END
+DAOAlreadyRegisteredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAOAlreadyRegisteredException.java
+END
+DAOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAOException.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAO.java
+END
+DAOLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAOLoader.java
+END
+DisabledDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DisabledDAO.java
+END
+DAOManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/database/dao/DAOManager.java
+END

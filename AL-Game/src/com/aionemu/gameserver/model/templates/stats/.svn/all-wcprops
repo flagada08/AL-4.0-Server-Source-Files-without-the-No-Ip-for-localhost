@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats
+END
+PetStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/PetStatsTemplate.java
+END
+PlayerStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/PlayerStatsTemplate.java
+END
+AbsoluteStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/AbsoluteStatsTemplate.java
+END
+CalculatedPlayerStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/CalculatedPlayerStatsTemplate.java
+END
+SummonStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/SummonStatsTemplate.java
+END
+StatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/StatsTemplate.java
+END
+NpcStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/NpcStatsTemplate.java
+END
+KiskStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/KiskStatsTemplate.java
+END
+ModifiersTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/stats/ModifiersTemplate.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/service
+END
+ChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/service/ChatService.java
+END
+GameServerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/service/GameServerService.java
+END
+BroadcastService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/service/BroadcastService.java
+END
+RestartService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/service/RestartService.java
+END

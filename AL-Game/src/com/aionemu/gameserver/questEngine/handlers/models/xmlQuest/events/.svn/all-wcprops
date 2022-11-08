@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/events
+END
+QuestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/events/QuestEvent.java
+END
+OnKillEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/events/OnKillEvent.java
+END
+OnTalkEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/events/OnTalkEvent.java
+END

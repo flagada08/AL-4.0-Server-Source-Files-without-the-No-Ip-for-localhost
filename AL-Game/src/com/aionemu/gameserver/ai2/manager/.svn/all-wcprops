@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager
+END
+SkillAttackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/SkillAttackManager.java
+END
+AttackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/AttackManager.java
+END
+EmoteManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/EmoteManager.java
+END
+WalkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/WalkManager.java
+END
+SimpleAttackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/SimpleAttackManager.java
+END
+FollowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/manager/FollowManager.java
+END

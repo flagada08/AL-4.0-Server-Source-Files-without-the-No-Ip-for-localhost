@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel
+END
+LfgChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/LfgChannel.java
+END
+JobChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/JobChannel.java
+END
+RaceChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/RaceChannel.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/Channel.java
+END
+TradeChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/TradeChannel.java
+END
+LangChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/LangChannel.java
+END
+ChatChannels.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/ChatChannels.java
+END
+RegionChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/channel/RegionChannel.java
+END

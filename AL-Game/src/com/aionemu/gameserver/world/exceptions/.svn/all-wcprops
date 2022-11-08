@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions
+END
+NotSetPositionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions/NotSetPositionException.java
+END
+InstanceNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions/InstanceNotExistException.java
+END
+AlreadySpawnedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions/AlreadySpawnedException.java
+END
+WorldMapNotExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions/WorldMapNotExistException.java
+END
+DuplicateAionObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/exceptions/DuplicateAionObjectException.java
+END

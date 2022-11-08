@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer
+END
+AttackCalcObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AttackCalcObserver.java
+END
+CollisionMaterialActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/CollisionMaterialActor.java
+END
+CollisionDieActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/CollisionDieActor.java
+END
+DialogObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/DialogObserver.java
+END
+AttackShieldObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AttackShieldObserver.java
+END
+AttackerCriticalStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AttackerCriticalStatus.java
+END
+ShieldObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/ShieldObserver.java
+END
+IActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/IActor.java
+END
+FlyRingObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/FlyRingObserver.java
+END
+ItemUseObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/ItemUseObserver.java
+END
+AttackStatusObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AttackStatusObserver.java
+END
+StartMovingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/StartMovingListener.java
+END
+AttackerCriticalStatusObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AttackerCriticalStatusObserver.java
+END
+ActionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/ActionObserver.java
+END
+AbstractCollisionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/AbstractCollisionObserver.java
+END
+ObserverType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/ObserverType.java
+END
+RoadObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/RoadObserver.java
+END
+GaleCycloneObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/controllers/observer/GaleCycloneObserver.java
+END

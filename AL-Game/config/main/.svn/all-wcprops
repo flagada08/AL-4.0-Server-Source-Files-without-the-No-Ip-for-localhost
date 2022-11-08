@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main
+END
+ranking.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/ranking.properties
+END
+ai.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/ai.properties
+END
+punishment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/punishment.properties
+END
+ingameshop.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/ingameshop.properties
+END
+siege.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/siege.properties
+END
+group.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/group.properties
+END
+enchants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/enchants.properties
+END
+drop.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/drop.properties
+END
+events.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/events.properties
+END
+html.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/html.properties
+END
+security.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/security.properties
+END
+commons.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/commons.properties
+END
+falldamage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/falldamage.properties
+END
+rates.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/rates.properties
+END
+prices.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/prices.properties
+END
+autogroup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/autogroup.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/logging.properties
+END
+world.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/world.properties
+END
+membership.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/membership.properties
+END
+craft.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/craft.properties
+END
+legions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/legions.properties
+END
+gameserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/gameserver.properties
+END
+playertransfer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/playertransfer.properties
+END
+cache.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/cache.properties
+END
+weddings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/weddings.properties
+END
+geodata.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/geodata.properties
+END
+thread.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/thread.properties
+END
+custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/custom.properties
+END
+shutdown.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/shutdown.properties
+END
+housing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/housing.properties
+END
+periodicsave.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/periodicsave.properties
+END
+name.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/name.properties
+END
+cleaning.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/config/main/cleaning.properties
+END

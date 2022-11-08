@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions
+END
+StatShieldMasteryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatShieldMasteryFunction.java
+END
+StatWeaponMasteryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatWeaponMasteryFunction.java
+END
+PlayerStatFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/PlayerStatFunctions.java
+END
+StatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatFunction.java
+END
+StatEnchantFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatEnchantFunction.java
+END
+StatFunctionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatFunctionProxy.java
+END
+StatDualWeaponMasteryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatDualWeaponMasteryFunction.java
+END
+StatArmorMasteryFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatArmorMasteryFunction.java
+END
+IStatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/IStatFunction.java
+END
+StatAddFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatAddFunction.java
+END
+StatSubFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatSubFunction.java
+END
+StatRateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatRateFunction.java
+END
+StatSetFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/stats/calc/functions/StatSetFunction.java
+END

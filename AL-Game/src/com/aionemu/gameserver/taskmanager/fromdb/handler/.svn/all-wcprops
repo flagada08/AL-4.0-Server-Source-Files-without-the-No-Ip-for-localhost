@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/handler
+END
+RestartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/handler/RestartHandler.java
+END
+TaskFromDBHandlerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/handler/TaskFromDBHandlerHolder.java
+END
+ShutdownHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/handler/ShutdownHandler.java
+END
+TaskFromDBHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/handler/TaskFromDBHandler.java
+END

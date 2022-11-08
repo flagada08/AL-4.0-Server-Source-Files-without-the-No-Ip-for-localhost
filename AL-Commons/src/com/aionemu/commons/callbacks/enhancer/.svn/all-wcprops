@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/callbacks/enhancer
+END
+GlobalCallbackEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/callbacks/enhancer/GlobalCallbackEnhancer.java
+END
+CallbackClassFileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/callbacks/enhancer/CallbackClassFileTransformer.java
+END
+ObjectCallbackEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/callbacks/enhancer/ObjectCallbackEnhancer.java
+END

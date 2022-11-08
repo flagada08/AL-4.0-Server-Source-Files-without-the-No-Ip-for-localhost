@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat
+END
+nbactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/nbactions.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/pom.xml
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/assembly.xml
+END

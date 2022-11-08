@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login
+END
+nbactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/nbactions.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/pom.xml
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/assembly.xml
+END

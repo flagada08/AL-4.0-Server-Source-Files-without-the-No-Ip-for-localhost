@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition
+END
+GloryInstancePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/GloryInstancePosition.java
+END
+ChaosInstancePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/ChaosInstancePosition.java
+END
+HarmonyInstancePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/HarmonyInstancePosition.java
+END
+InstancePositionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/InstancePositionHandler.java
+END
+GenerealInstancePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/GenerealInstancePosition.java
+END
+DisciplineInstancePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/instance/instanceposition/DisciplineInstancePosition.java
+END

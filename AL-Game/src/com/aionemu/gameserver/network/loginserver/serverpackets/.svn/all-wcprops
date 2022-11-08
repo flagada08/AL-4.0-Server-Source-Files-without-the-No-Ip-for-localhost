@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets
+END
+SM_BAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_BAN.java
+END
+SM_MAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_MAC.java
+END
+SM_ACCOUNT_TOLL_INFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_TOLL_INFO.java
+END
+SM_LS_PONG.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_LS_PONG.java
+END
+SM_MACBAN_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_MACBAN_CONTROL.java
+END
+SM_ACCOUNT_RECONNECT_KEY.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_RECONNECT_KEY.java
+END
+SM_PTRANSFER_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_PTRANSFER_CONTROL.java
+END
+SM_GS_CHARACTER.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_GS_CHARACTER.java
+END
+SM_ACCOUNT_LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_LIST.java
+END
+SM_GS_AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_GS_AUTH.java
+END
+SM_ACCOUNT_AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_AUTH.java
+END
+SM_ACCOUNT_DISCONNECTED.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_DISCONNECTED.java
+END
+SM_LS_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_LS_CONTROL.java
+END
+SM_PREMIUM_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/loginserver/serverpackets/SM_PREMIUM_CONTROL.java
+END

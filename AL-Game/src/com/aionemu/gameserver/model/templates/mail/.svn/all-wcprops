@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail
+END
+IMailFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/IMailFormatter.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Sender.java
+END
+SysMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/SysMail.java
+END
+Title.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Title.java
+END
+StringParamList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/StringParamList.java
+END
+Mails.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Mails.java
+END
+MailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/MailMessage.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Header.java
+END
+MailPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/MailPart.java
+END
+Tail.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Tail.java
+END
+MailPartType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/MailPartType.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/Body.java
+END
+MailTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/mail/MailTemplate.java
+END

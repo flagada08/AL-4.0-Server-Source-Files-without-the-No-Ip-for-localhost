@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions
+END
+SummonHouseObjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/SummonHouseObjectAction.java
+END
+ExtractAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ExtractAction.java
+END
+ReadAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ReadAction.java
+END
+DecomposeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/DecomposeAction.java
+END
+QuestStartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/QuestStartAction.java
+END
+AdoptPetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/AdoptPetAction.java
+END
+ItemActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ItemActions.java
+END
+DecorateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/DecorateAction.java
+END
+RemodelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/RemodelAction.java
+END
+FireworksUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/FireworksUseAction.java
+END
+ChargeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ChargeAction.java
+END
+ApExtractAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ApExtractAction.java
+END
+InstanceTimeClear.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/InstanceTimeClear.java
+END
+EmotionLearnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/EmotionLearnAction.java
+END
+ExpandInventoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ExpandInventoryAction.java
+END
+ToyPetSpawnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ToyPetSpawnAction.java
+END
+PolishAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/PolishAction.java
+END
+SkillLearnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/SkillLearnAction.java
+END
+CompositionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/CompositionAction.java
+END
+ApExtractTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ApExtractTarget.java
+END
+DyeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/DyeAction.java
+END
+CraftLearnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/CraftLearnAction.java
+END
+AbstractItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/AbstractItemAction.java
+END
+RideAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/RideAction.java
+END
+CosmeticItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/CosmeticItemAction.java
+END
+IHouseObjectDyeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/IHouseObjectDyeAction.java
+END
+ExpExtractAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/ExpExtractAction.java
+END
+AnimationAddAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/AnimationAddAction.java
+END
+TitleAddAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/TitleAddAction.java
+END
+SkillUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/SkillUseAction.java
+END
+AssemblyItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/AssemblyItemAction.java
+END
+EnchantItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/item/actions/EnchantItemAction.java
+END

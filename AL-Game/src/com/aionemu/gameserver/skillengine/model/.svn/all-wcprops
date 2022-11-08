@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model
+END
+Motion.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/Motion.java
+END
+SkillMoveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillMoveType.java
+END
+AttackType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/AttackType.java
+END
+HealType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/HealType.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/Skill.java
+END
+FlyingRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/FlyingRestriction.java
+END
+Times.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/Times.java
+END
+ChainSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ChainSkill.java
+END
+DashStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/DashStatus.java
+END
+MotionTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/MotionTime.java
+END
+ActivationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ActivationAttribute.java
+END
+StigmaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/StigmaType.java
+END
+HitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/HitType.java
+END
+SkillTargetSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillTargetSlot.java
+END
+HopType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/HopType.java
+END
+SkillSubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillSubType.java
+END
+ChargedSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ChargedSkill.java
+END
+SkillLearnTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillLearnTemplate.java
+END
+WeaponTypeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/WeaponTypeWrapper.java
+END
+ChainSkills.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ChainSkills.java
+END
+ChargeSkillEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ChargeSkillEntry.java
+END
+SkillTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillTemplate.java
+END
+TransformType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/TransformType.java
+END
+DispelCategoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/DispelCategoryType.java
+END
+SkillType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SkillType.java
+END
+DispelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/DispelType.java
+END
+SpellStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/SpellStatus.java
+END
+ProvokeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ProvokeType.java
+END
+ChargeSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ChargeSkill.java
+END
+EffectResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/EffectResult.java
+END
+ProvokeTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/ProvokeTarget.java
+END
+Effect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/model/Effect.java
+END

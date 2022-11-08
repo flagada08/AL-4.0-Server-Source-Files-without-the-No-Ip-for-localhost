@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/LoginServer.java
+END
+GameServerTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/GameServerTable.java
+END
+PingPongThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/PingPongThread.java
+END
+Shutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/Shutdown.java
+END
+GameServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/GameServerInfo.java
+END

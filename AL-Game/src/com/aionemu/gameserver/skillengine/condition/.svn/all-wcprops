@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition
+END
+SkillChargeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/SkillChargeCondition.java
+END
+ArrowCheckCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ArrowCheckCondition.java
+END
+FrontCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/FrontCondition.java
+END
+WeaponCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/WeaponCondition.java
+END
+ChargeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ChargeCondition.java
+END
+ChargeArmorCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ChargeArmorCondition.java
+END
+AbnormalStateCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/AbnormalStateCondition.java
+END
+TargetFlyingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/TargetFlyingCondition.java
+END
+BackCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/BackCondition.java
+END
+SelfFlyingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/SelfFlyingCondition.java
+END
+Conditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/Conditions.java
+END
+ChargeWeaponCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ChargeWeaponCondition.java
+END
+CombatCheckCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/CombatCheckCondition.java
+END
+DpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/DpCondition.java
+END
+FormCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/FormCondition.java
+END
+TargetAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/TargetAttribute.java
+END
+HpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/HpCondition.java
+END
+ItemChargeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ItemChargeCondition.java
+END
+PolishChargeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/PolishChargeCondition.java
+END
+MpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/MpCondition.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/Condition.java
+END
+ChainCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/ChainCondition.java
+END
+LeftHandCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/LeftHandCondition.java
+END
+NoFlyingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/NoFlyingCondition.java
+END
+TargetCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/TargetCondition.java
+END
+OnFlyCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/OnFlyCondition.java
+END
+PlayerMovedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/condition/PlayerMovedCondition.java
+END

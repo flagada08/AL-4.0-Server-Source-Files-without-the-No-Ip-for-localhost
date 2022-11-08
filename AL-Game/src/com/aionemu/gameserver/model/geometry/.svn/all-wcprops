@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry
+END
+SphereArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/SphereArea.java
+END
+Point3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/Point3D.java
+END
+CylinderArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/CylinderArea.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/Area.java
+END
+AbstractArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/AbstractArea.java
+END
+PolyArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/PolyArea.java
+END
+Polygon2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/Polygon2D.java
+END
+RectangleArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/RectangleArea.java
+END
+SemisphereArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/geometry/SemisphereArea.java
+END

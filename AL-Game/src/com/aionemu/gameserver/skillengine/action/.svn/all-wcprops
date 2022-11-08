@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action
+END
+Actions.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/Actions.java
+END
+DamageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/DamageType.java
+END
+HpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/HpUseAction.java
+END
+MpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/MpUseAction.java
+END
+ItemUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/ItemUseAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/Action.java
+END
+DpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/action/DpUseAction.java
+END

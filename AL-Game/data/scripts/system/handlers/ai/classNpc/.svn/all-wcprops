@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/classNpc
+END
+DrakanPriestAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/classNpc/DrakanPriestAI2.java
+END
+DrakanHealingServantAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/classNpc/DrakanHealingServantAI2.java
+END
+EnemyServantAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/classNpc/EnemyServantAI2.java
+END
+DrakanMedicAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/classNpc/DrakanMedicAI2.java
+END

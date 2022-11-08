@@ -1,0 +1,83 @@
+10
+
+dir
+7
+https://subversion.assembla.com/svn/pt-emu.ALSRC/trunk/AL-Game/data/static_data/spawns
+https://subversion.assembla.com/svn/pt-emu.ALSRC
+
+
+
+2013-07-24T16:03:45.272622Z
+5
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b61988bf-471c-4c57-830d-274bf44055a4
+
+Sieges
+dir
+
+Npcs
+dir
+
+Instances
+dir
+
+Rifts
+dir
+
+spawns.xsd
+file
+
+
+
+
+2013-07-24T16:42:10.321519Z
+a2495d25520c1ffa72fc3f0677ff5d04
+2013-07-24T16:03:45.272622Z
+5
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5904
+
+Gather
+dir
+
+Statics
+dir
+
+Bases
+dir
+

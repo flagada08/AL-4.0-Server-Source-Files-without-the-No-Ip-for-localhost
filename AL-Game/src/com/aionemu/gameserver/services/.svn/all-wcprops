@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services
+END
+ChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ChatService.java
+END
+EnchantService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/EnchantService.java
+END
+EventService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/EventService.java
+END
+SerialKillerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/SerialKillerService.java
+END
+StigmaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/StigmaService.java
+END
+AutoGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/AutoGroupService.java
+END
+LimitedItemTradeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/LimitedItemTradeService.java
+END
+TownService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/TownService.java
+END
+PrivateStoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/PrivateStoreService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/AdminService.java
+END
+AccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/AccountService.java
+END
+SurveyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/SurveyService.java
+END
+FindGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/FindGroupService.java
+END
+WeatherService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/WeatherService.java
+END
+DialogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/DialogService.java
+END
+SkillLearnService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/SkillLearnService.java
+END
+QuestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/QuestService.java
+END
+KiskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/KiskService.java
+END
+TribeRelationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/TribeRelationService.java
+END
+RiftService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/RiftService.java
+END
+HTMLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/HTMLService.java
+END
+DatabaseCleaningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/DatabaseCleaningService.java
+END
+ShieldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ShieldService.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/BaseService.java
+END
+HousingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/HousingService.java
+END
+PeriodicSaveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/PeriodicSaveService.java
+END
+LegionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/LegionService.java
+END
+CubeExpandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/CubeExpandService.java
+END
+RespawnService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/RespawnService.java
+END
+WeddingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/WeddingService.java
+END
+ExchangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ExchangeService.java
+END
+CuringZoneService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/CuringZoneService.java
+END
+BrokerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/BrokerService.java
+END
+RoadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/RoadService.java
+END
+ArmsfusionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ArmsfusionService.java
+END
+DebugService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/DebugService.java
+END
+NpcShoutsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/NpcShoutsService.java
+END
+VortexService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/VortexService.java
+END
+GameTimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/GameTimeService.java
+END
+DuelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/DuelService.java
+END
+PunishmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/PunishmentService.java
+END
+AnnouncementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/AnnouncementService.java
+END
+HousingBidService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/HousingBidService.java
+END
+PetitionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/PetitionService.java
+END
+SiegeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/services/SiegeService.java
+END
+TradeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/TradeService.java
+END
+RepurchaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/RepurchaseService.java
+END
+WarehouseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/WarehouseService.java
+END
+LifeStatsRestoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/LifeStatsRestoreService.java
+END
+PvpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/PvpService.java
+END
+ChallengeTaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ChallengeTaskService.java
+END
+NameRestrictionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/NameRestrictionService.java
+END
+RecipeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/RecipeService.java
+END
+RenameService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/RenameService.java
+END
+FlyRingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/FlyRingService.java
+END
+SocialService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/SocialService.java
+END
+ClassChangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/ClassChangeService.java
+END
+StaticDoorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/StaticDoorService.java
+END
+DisputeLandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/DisputeLandService.java
+END
+MotionLoggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/services/MotionLoggingService.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/items
+END
+assembly_items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/assembly_items.xml
+END
+item_random_bonuses.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_random_bonuses.xsd
+END
+item_templates.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/items/item_templates.xsd
+END
+item_groups.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_groups.xsd
+END
+item_restriction_cleanups.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_restriction_cleanups.xsd
+END
+item_random_bonuses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_random_bonuses.xml
+END
+item_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/items/item_templates.xml
+END
+item_groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_groups.xml
+END
+item_restriction_cleanups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/item_restriction_cleanups.xml
+END
+assembly_items.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/items/assembly_items.xsd
+END

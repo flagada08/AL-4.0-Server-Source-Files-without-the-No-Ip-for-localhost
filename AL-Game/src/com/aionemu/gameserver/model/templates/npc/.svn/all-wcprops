@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc
+END
+AbyssNpcType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/AbyssNpcType.java
+END
+NpcRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/NpcRating.java
+END
+TalkInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/TalkInfo.java
+END
+NpcRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/NpcRank.java
+END
+NpcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/NpcTemplate.java
+END
+NpcTemplateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/npc/NpcTemplateType.java
+END

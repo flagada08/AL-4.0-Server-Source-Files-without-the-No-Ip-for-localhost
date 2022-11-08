@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/siegelocation
+END
+ArtifactActivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/siegelocation/ArtifactActivation.java
+END
+SiegeLegionReward.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/siegelocation/SiegeLegionReward.java
+END
+SiegeLocationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/siegelocation/SiegeLocationTemplate.java
+END
+SiegeReward.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/siegelocation/SiegeReward.java
+END

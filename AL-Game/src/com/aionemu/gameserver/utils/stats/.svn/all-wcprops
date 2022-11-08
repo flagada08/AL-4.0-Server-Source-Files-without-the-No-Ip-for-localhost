@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats
+END
+XPRewardEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/XPRewardEnum.java
+END
+AbyssRankEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/AbyssRankEnum.java
+END
+ClassStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/ClassStats.java
+END
+StatFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/StatFunctions.java
+END
+APRewardEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/APRewardEnum.java
+END
+XPLossEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/XPLossEnum.java
+END
+DropRewardEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/utils/stats/DropRewardEnum.java
+END

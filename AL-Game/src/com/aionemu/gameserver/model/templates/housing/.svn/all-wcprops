@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing
+END
+BuildingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/BuildingType.java
+END
+HousingStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingStorage.java
+END
+PlaceableHouseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/PlaceableHouseObject.java
+END
+HousingMovieJukeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingMovieJukeBox.java
+END
+HousingJukeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingJukeBox.java
+END
+LBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/LBox.java
+END
+HousingMoveableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingMoveableItem.java
+END
+BuildingCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/BuildingCapabilities.java
+END
+HousingPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingPicture.java
+END
+PartType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/PartType.java
+END
+UseItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/UseItemAction.java
+END
+HousingCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingCategory.java
+END
+HousePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousePart.java
+END
+HousingLand.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingLand.java
+END
+HousingNpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingNpc.java
+END
+PlaceArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/PlaceArea.java
+END
+PlaceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/PlaceLocation.java
+END
+LimitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/LimitType.java
+END
+HousingChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingChair.java
+END
+Sale.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/Sale.java
+END
+HouseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HouseType.java
+END
+HousingPassiveItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingPassiveItem.java
+END
+HouseAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HouseAddress.java
+END
+Parts.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/Parts.java
+END
+HousingPostbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingPostbox.java
+END
+HousingUseableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingUseableItem.java
+END
+Building.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/Building.java
+END
+HousingEmblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/HousingEmblem.java
+END
+AbstractHouseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/templates/housing/AbstractHouseObject.java
+END

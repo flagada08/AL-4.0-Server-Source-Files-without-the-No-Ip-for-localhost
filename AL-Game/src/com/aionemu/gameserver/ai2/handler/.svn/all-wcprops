@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler
+END
+AggroEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/AggroEventHandler.java
+END
+ActivateEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/ActivateEventHandler.java
+END
+FollowEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/FollowEventHandler.java
+END
+ShoutEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/ShoutEventHandler.java
+END
+DiedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/DiedEventHandler.java
+END
+MoveEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/MoveEventHandler.java
+END
+AttackEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/AttackEventHandler.java
+END
+CreatureEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/CreatureEventHandler.java
+END
+SimpleAbyssGuardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/SimpleAbyssGuardHandler.java
+END
+ReturningEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/ReturningEventHandler.java
+END
+ThinkEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/ThinkEventHandler.java
+END
+FreezeEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/FreezeEventHandler.java
+END
+TargetEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/TargetEventHandler.java
+END
+SpawnEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/SpawnEventHandler.java
+END
+TalkEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/ai2/handler/TalkEventHandler.java
+END

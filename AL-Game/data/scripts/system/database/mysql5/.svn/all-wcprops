@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/database/mysql5
+END
+MySQL5ItemStoneListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5ItemStoneListDAO.java
+END
+MySQL5LegionMemberDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5LegionMemberDAO.java
+END
+MySQL5RewardServiceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5RewardServiceDAO.java
+END
+MySQL5PlayerRecipesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerRecipesDAO.java
+END
+MySQL5PlayerAppearanceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerAppearanceDAO.java
+END
+MySQL5PlayerRegisteredItemsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerRegisteredItemsDAO.java
+END
+MySQL5LegionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5LegionDAO.java
+END
+MySQL5PlayerSettingsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerSettingsDAO.java
+END
+MySQL5PlayerCooldownsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerCooldownsDAO.java
+END
+MySQL5BrokerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5BrokerDAO.java
+END
+MySQL5HouseBidsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5HouseBidsDAO.java
+END
+MySQL5BlockListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5BlockListDAO.java
+END
+MySQL5CraftCooldownsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5CraftCooldownsDAO.java
+END
+MySQL5ChallengeTasksDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5ChallengeTasksDAO.java
+END
+MySQL5PortalCooldownsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PortalCooldownsDAO.java
+END
+MySQL5PlayerPunishmentsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerPunishmentsDAO.java
+END
+MySQL5HouseScriptsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5HouseScriptsDAO.java
+END
+MySQL5PetitionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PetitionDAO.java
+END
+MySQL5TaskFromDBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5TaskFromDBDAO.java
+END
+MySQL5InGameShopLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5InGameShopLogDAO.java
+END
+MySQL5PlayerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerDAO.java
+END
+MySQL5PlayerPasskeyDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerPasskeyDAO.java
+END
+MySQL5GuideDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5GuideDAO.java
+END
+MySQL5ServerVariablesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5ServerVariablesDAO.java
+END
+MySQL5SurveyControllerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5SurveyControllerDAO.java
+END
+MySQL5HouseObjectCooldownsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5HouseObjectCooldownsDAO.java
+END
+MySQL5OldNamesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5OldNamesDAO.java
+END
+MySQL5FriendListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5FriendListDAO.java
+END
+MySQL5PlayerBindPointDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerBindPointDAO.java
+END
+MySQL5MotionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5MotionDAO.java
+END
+MySQL5HousesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5HousesDAO.java
+END
+MySQL5PlayerQuestListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerQuestListDAO.java
+END
+MySQL5PlayerLifeStatsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerLifeStatsDAO.java
+END
+MySQL5PlayerMacrossesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerMacrossesDAO.java
+END
+MySQL5WeddingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5WeddingDAO.java
+END
+MySQL5MailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5MailDAO.java
+END
+MySQL5PlayerEmotionListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerEmotionListDAO.java
+END
+MySQL5PlayerNpcFactionsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerNpcFactionsDAO.java
+END
+MySQL5ItemCooldownsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5ItemCooldownsDAO.java
+END
+MySQL5PlayerSkillListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerSkillListDAO.java
+END
+MySQL5TownDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5TownDAO.java
+END
+MySQL5PlayerPetsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerPetsDAO.java
+END
+MySQL5PlayerVarsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerVarsDAO.java
+END
+MySQL5Announcements.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5Announcements.java
+END
+MySQL5PlayerTitleListDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerTitleListDAO.java
+END
+MySQL5inGameShopDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5inGameShopDAO.java
+END
+MySQL5PlayerEffectsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5PlayerEffectsDAO.java
+END
+MySQL5SiegeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5SiegeDAO.java
+END
+MySQL5AbyssRankDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5AbyssRankDAO.java
+END
+MySQL5InventoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/database/mysql5/MySQL5InventoryDAO.java
+END

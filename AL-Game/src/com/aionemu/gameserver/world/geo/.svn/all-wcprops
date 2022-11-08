@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo
+END
+DummyGeoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/DummyGeoData.java
+END
+DummyGeoMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/DummyGeoMap.java
+END
+GeoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/GeoData.java
+END
+RealGeoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/RealGeoData.java
+END
+GeoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/GeoService.java
+END
+GeoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/world/geo/GeoType.java
+END

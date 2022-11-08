@@ -1,0 +1,530 @@
+10
+
+dir
+7
+https://subversion.assembla.com/svn/pt-emu.ALSRC/trunk/AL-Game/src/com/aionemu/gameserver/model/templates
+https://subversion.assembla.com/svn/pt-emu.ALSRC
+
+
+
+2013-07-25T01:22:56.228973Z
+7
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b61988bf-471c-4c57-830d-274bf44055a4
+
+panels
+dir
+
+petskill
+dir
+
+TitleTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.862746Z
+1f718ca875b641900230ce7c33c4fd7c
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2374
+
+windstreams
+dir
+
+instance_bonusatrr
+dir
+
+restriction
+dir
+
+factions
+dir
+
+curingzones
+dir
+
+recipe
+dir
+
+expand
+dir
+
+serial_killer
+dir
+
+challenge
+dir
+
+ride
+dir
+
+siegelocation
+dir
+
+CubeExpandTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.868746Z
+27634d3b1af5a869124a6dc12b23501f
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1044
+
+CraftLearnTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.870746Z
+b91d1b927a583119fb50833ca826eed3
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1244
+
+teleport
+dir
+
+item
+dir
+
+BoundRadius.java
+file
+
+
+
+
+2013-07-24T16:40:46.872746Z
+52fa7c2ae70790ae48fa22ea29600714
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2183
+
+quest
+dir
+
+chest
+dir
+
+flypath
+dir
+
+flyring
+dir
+
+staticdoor
+dir
+
+QuestTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.878747Z
+3e3b24a51dcc8c4121c53c1be2890f0b
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20445
+
+InstanceCooltime.java
+file
+
+
+
+
+2013-07-24T16:40:46.860745Z
+1d425c3fb06e5158617dd08c837a11f0
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4456
+
+npc
+dir
+
+Guides
+dir
+
+walker
+dir
+
+road
+dir
+
+vortex
+dir
+
+world
+dir
+
+ingameshop
+dir
+
+itemgroups
+dir
+
+assemblednpc
+dir
+
+BindPointTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.865746Z
+8abfaa1f2b752d03f8a3f88938cbf405
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1458
+
+tribe
+dir
+
+towns
+dir
+
+spawns
+dir
+
+npcskill
+dir
+
+event
+dir
+
+materials
+dir
+
+mail
+dir
+
+bonus
+dir
+
+pet
+dir
+
+ai
+dir
+
+tradelist
+dir
+
+survey
+dir
+
+stats
+dir
+
+VisibleObjectTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.874746Z
+fe0d5dc3f8841863ee461a4b1e2d3d3e
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1551
+
+portal
+dir
+
+npcshout
+dir
+
+rift
+dir
+
+rewards
+dir
+
+cosmeticitems
+dir
+
+shield
+dir
+
+itemset
+dir
+
+gather
+dir
+
+Bounds.java
+file
+
+
+
+
+2013-07-24T16:40:46.876746Z
+eabfb70cf6a98a12761d99349c3ea6c9
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1402
+
+base
+dir
+
+goods
+dir
+
+zone
+dir
+
+housing
+dir
+
+WarehouseExpandTemplate.java
+file
+
+
+
+
+2013-07-24T16:40:46.880747Z
+2c3085a503a7d49a4bdff443c736283c
+2013-07-15T19:32:22.447330Z
+2
+pixfid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2462
+

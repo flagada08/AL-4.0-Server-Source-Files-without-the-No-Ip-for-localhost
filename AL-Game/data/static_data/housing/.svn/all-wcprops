@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing
+END
+house_buildings.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_buildings.xsd
+END
+house_buildings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_buildings.xml
+END
+housing_objects.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/housing_objects.xsd
+END
+house_npcs.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_npcs.xsd
+END
+houses.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/houses.xsd
+END
+housing_objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/housing_objects.xml
+END
+scripts.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/scripts.xsd
+END
+house_npcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_npcs.xml
+END
+houses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/houses.xml
+END
+scripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/scripts.xml
+END
+house_parts.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_parts.xsd
+END
+house_parts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/housing/house_parts.xml
+END

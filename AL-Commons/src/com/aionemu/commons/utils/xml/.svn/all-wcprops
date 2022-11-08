@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/utils/xml
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/utils/xml/XmlUtils.java
+END
+JAXBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/utils/xml/JAXBUtil.java
+END
+StringSchemaOutputResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/utils/xml/StringSchemaOutputResolver.java
+END
+GenericMapAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/utils/xml/GenericMapAdapter.java
+END

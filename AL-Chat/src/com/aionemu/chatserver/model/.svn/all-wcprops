@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model
+END
+PlayerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/PlayerClass.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/Gender.java
+END
+RestartFrequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/RestartFrequency.java
+END
+WorldMapType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/WorldMapType.java
+END
+ChannelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/ChannelType.java
+END
+MapId.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/MapId.java
+END
+Race.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/Race.java
+END
+ChatClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/model/ChatClient.java
+END

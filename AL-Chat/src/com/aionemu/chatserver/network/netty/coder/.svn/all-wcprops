@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder
+END
+LoginPacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder/LoginPacketEncoder.java
+END
+LoginPacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder/LoginPacketDecoder.java
+END
+GameServerPacketEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder/GameServerPacketEncoder.java
+END
+PacketFrameDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder/PacketFrameDecoder.java
+END
+GameServerPacketDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/netty/coder/GameServerPacketDecoder.java
+END

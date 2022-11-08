@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/factories
+END
+AionPacketHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/factories/AionPacketHandlerFactory.java
+END
+GsPacketHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/factories/GsPacketHandlerFactory.java
+END

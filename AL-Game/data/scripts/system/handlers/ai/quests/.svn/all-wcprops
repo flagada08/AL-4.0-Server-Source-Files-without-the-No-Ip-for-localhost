@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests
+END
+AscensationNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests/AscensationNpcAI2.java
+END
+GarnonQ20060AI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests/GarnonQ20060AI2.java
+END
+QuestStartItemNpcAi2.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests/QuestStartItemNpcAi2.java
+END
+InfiltratorsAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests/InfiltratorsAI2.java
+END
+QuestItemNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/quests/QuestItemNpcAI2.java
+END

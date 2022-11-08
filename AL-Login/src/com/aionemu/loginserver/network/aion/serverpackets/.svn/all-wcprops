@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets
+END
+SM_PLAY_FAIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_PLAY_FAIL.java
+END
+SM_LOGIN_OK.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_LOGIN_OK.java
+END
+SM_SERVER_LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_SERVER_LIST.java
+END
+SM_INIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_INIT.java
+END
+SM_LOGIN_FAIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_LOGIN_FAIL.java
+END
+SM_UPDATE_SESSION.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_UPDATE_SESSION.java
+END
+SM_AUTH_GG.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_AUTH_GG.java
+END
+SM_PLAY_OK.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/aion/serverpackets/SM_PLAY_OK.java
+END

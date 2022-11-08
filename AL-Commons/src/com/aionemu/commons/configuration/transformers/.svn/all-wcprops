@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers
+END
+CharTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/CharTransformer.java
+END
+IntegerTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/IntegerTransformer.java
+END
+PatternTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/PatternTransformer.java
+END
+InetSocketAddressTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/InetSocketAddressTransformer.java
+END
+BooleanTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/BooleanTransformer.java
+END
+FileTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/FileTransformer.java
+END
+LongTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/LongTransformer.java
+END
+ShortTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/ShortTransformer.java
+END
+ByteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/ByteTransformer.java
+END
+EnumTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/EnumTransformer.java
+END
+ClassTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/ClassTransformer.java
+END
+FloatTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/FloatTransformer.java
+END
+StringTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/StringTransformer.java
+END
+DoubleTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/transformers/DoubleTransformer.java
+END

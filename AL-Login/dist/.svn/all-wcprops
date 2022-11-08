@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/dist
+END
+StartLS.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/dist/StartLS.bat
+END
+PanelLS.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/dist/PanelLS.bat
+END
+StartLS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/dist/StartLS.sh
+END
+StopLS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/dist/StopLS.sh
+END

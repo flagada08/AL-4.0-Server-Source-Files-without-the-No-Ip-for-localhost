@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo
+END
+EquippedSlotBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/EquippedSlotBlobEntry.java
+END
+WingInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/WingInfoBlobEntry.java
+END
+CompositeItemBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/CompositeItemBlobEntry.java
+END
+StigmaShardInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/StigmaShardInfoBlobEntry.java
+END
+PremiumOptionInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/PremiumOptionInfoBlobEntry.java
+END
+ShieldInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ShieldInfoBlobEntry.java
+END
+ItemInfoBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ItemInfoBlob.java
+END
+GeneralInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/GeneralInfoBlobEntry.java
+END
+ArmorInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ArmorInfoBlobEntry.java
+END
+ItemBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ItemBlobEntry.java
+END
+StigmaInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/StigmaInfoBlobEntry.java
+END
+ConditioningInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ConditioningInfoBlobEntry.java
+END
+ManaStoneInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ManaStoneInfoBlobEntry.java
+END
+BonusInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/BonusInfoBlobEntry.java
+END
+WeaponInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/WeaponInfoBlobEntry.java
+END
+ArrowInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/ArrowInfoBlobEntry.java
+END
+AccessoryInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/AccessoryInfoBlobEntry.java
+END
+PolishInfoBlobEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/network/aion/iteminfo/PolishInfoBlobEntry.java
+END

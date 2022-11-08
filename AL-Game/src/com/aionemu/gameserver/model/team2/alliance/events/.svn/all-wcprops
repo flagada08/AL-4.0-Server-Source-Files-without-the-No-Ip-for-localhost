@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events
+END
+AllianceDisbandEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/AllianceDisbandEvent.java
+END
+PlayerConnectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerConnectedEvent.java
+END
+PlayerDisconnectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerDisconnectedEvent.java
+END
+PlayerAllianceInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerAllianceInvite.java
+END
+PlayerEnteredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerEnteredEvent.java
+END
+PlayerAllianceLeavedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerAllianceLeavedEvent.java
+END
+ChangeAllianceLootRulesEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/ChangeAllianceLootRulesEvent.java
+END
+PlayerAllianceUpdateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/PlayerAllianceUpdateEvent.java
+END
+ChangeMemberGroupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/ChangeMemberGroupEvent.java
+END
+AssignViceCaptainEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/AssignViceCaptainEvent.java
+END
+ChangeAllianceLeaderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/ChangeAllianceLeaderEvent.java
+END
+CheckAllianceReadyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/events/CheckAllianceReadyEvent.java
+END

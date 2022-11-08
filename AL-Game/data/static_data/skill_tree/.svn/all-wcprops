@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/skill_tree
+END
+skill_tree.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/skill_tree/skill_tree.xsd
+END
+craft_skill_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/skill_tree/craft_skill_tree.xml
+END
+skill_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/skill_tree/skill_tree.xml
+END

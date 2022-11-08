@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/quest_data
+END
+challenge_tasks.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/quest_data/challenge_tasks.xsd
+END
+challenge_tasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/quest_data/challenge_tasks.xml
+END
+quest_data.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/quest_data/quest_data.xsd
+END
+quest_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/quest_data/quest_data.xml
+END

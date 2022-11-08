@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge
+END
+BarrelAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/BarrelAI2.java
+END
+ArbiterAi2.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/ArbiterAi2.java
+END
+AdministratorArminosAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/AdministratorArminosAI2.java
+END
+PoppyOnTheRunAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/PoppyOnTheRunAI2.java
+END
+RecordkeeperAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/RecordkeeperAI2.java
+END
+CrucibleRiftAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/instance/crucibleChallenge/CrucibleRiftAI2.java
+END

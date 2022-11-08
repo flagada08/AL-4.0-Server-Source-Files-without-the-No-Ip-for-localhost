@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/pet_skills
+END
+transformed_summon_skills.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/pet_skills/transformed_summon_skills.xml
+END
+pet_skills.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/pet_skills/pet_skills.xsd
+END
+pet_skills.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/pet_skills/pet_skills.xml
+END

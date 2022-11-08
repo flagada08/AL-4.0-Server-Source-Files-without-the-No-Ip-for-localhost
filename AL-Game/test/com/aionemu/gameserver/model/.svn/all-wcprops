@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/test/com/aionemu/gameserver/model
+END
+NpcStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/NpcStats.java
+END
+SniffedNpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/SniffedNpc.java
+END
+NpcTypeCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/test/com/aionemu/gameserver/model/NpcTypeCheck.java
+END
+DummyZoneData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/DummyZoneData.java
+END
+TribeRelationCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/test/com/aionemu/gameserver/model/TribeRelationCheck.java
+END
+ItemStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/ItemStorageTest.java
+END
+BonusServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/BonusServiceTest.java
+END
+DummyPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/DummyPlayer.java
+END
+DummyWorldMapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/DummyWorldMapData.java
+END
+WalkGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/WalkGroupTest.java
+END
+ItemStatsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/test/com/aionemu/gameserver/model/ItemStatsTest.java
+END

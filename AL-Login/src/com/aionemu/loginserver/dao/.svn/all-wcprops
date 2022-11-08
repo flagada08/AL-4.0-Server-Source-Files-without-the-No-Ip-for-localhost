@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao
+END
+AccountTimeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/AccountTimeDAO.java
+END
+AccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/AccountDAO.java
+END
+TaskFromDBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/TaskFromDBDAO.java
+END
+PremiumDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/PremiumDAO.java
+END
+BannedIpDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/BannedIpDAO.java
+END
+PlayerTransferDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/PlayerTransferDAO.java
+END
+GameServersDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/GameServersDAO.java
+END
+BannedMacDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/dao/BannedMacDAO.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game
+END
+nbactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/nbactions.xml
+END
+dist-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/dist-build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/.classpath
+END
+al-game.iml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/al-game.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/pom.xml
+END
+assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/assembly.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/taskmanager/trigger/implementations
+END
+FixedInTimeTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/taskmanager/trigger/implementations/FixedInTimeTrigger.java
+END
+AfterRestartTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/taskmanager/trigger/implementations/AfterRestartTrigger.java
+END

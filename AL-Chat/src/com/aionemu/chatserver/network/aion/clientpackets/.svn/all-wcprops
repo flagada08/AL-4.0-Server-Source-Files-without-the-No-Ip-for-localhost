@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/aion/clientpackets
+END
+CM_CHANNEL_REQUEST.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/aion/clientpackets/CM_CHANNEL_REQUEST.java
+END
+CM_CHANNEL_MESSAGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/aion/clientpackets/CM_CHANNEL_MESSAGE.java
+END
+CM_PLAYER_AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/aion/clientpackets/CM_PLAYER_AUTH.java
+END
+CM_CHAT_INI.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/aion/clientpackets/CM_CHAT_INI.java
+END

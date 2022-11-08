@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/callback
+END
+PlayerAllianceCreateCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/callback/PlayerAllianceCreateCallback.java
+END
+PlayerAllianceDisbandCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/callback/PlayerAllianceDisbandCallback.java
+END
+AddPlayerToAllianceCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/alliance/callback/AddPlayerToAllianceCallback.java
+END

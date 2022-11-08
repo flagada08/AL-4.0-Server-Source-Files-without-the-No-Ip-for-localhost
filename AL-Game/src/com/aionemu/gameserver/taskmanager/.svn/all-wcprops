@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager
+END
+FIFORunnableQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/FIFORunnableQueue.java
+END
+AbstractPeriodicTaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/AbstractPeriodicTaskManager.java
+END
+AbstractFIFOPeriodicTaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/AbstractFIFOPeriodicTaskManager.java
+END
+FIFOSimpleExecutableQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/FIFOSimpleExecutableQueue.java
+END
+AbstractCronTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/AbstractCronTask.java
+END
+FIFOExecutableQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/FIFOExecutableQueue.java
+END
+AbstractIterativePeriodicTaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/AbstractIterativePeriodicTaskManager.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations
+END
+StartQuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/StartQuestOperation.java
+END
+NpcDialogOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/NpcDialogOperation.java
+END
+QuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/QuestOperation.java
+END
+SetQuestStatusOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/SetQuestStatusOperation.java
+END
+TakeItemOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/TakeItemOperation.java
+END
+QuestOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/QuestOperations.java
+END
+CollectItemQuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/CollectItemQuestOperation.java
+END
+SetQuestVarOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/SetQuestVarOperation.java
+END
+ActionItemUseOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/ActionItemUseOperation.java
+END
+GiveItemOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/GiveItemOperation.java
+END
+KillOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/questEngine/handlers/models/xmlQuest/operations/KillOperation.java
+END

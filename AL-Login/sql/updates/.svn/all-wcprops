@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates
+END
+Rev 4228 - accountdata-lastmac.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%204228%20-%20accountdata-lastmac.sql
+END
+Rev 2322 - mac_ban.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%202322%20-%20mac_ban.sql
+END
+Rev 2587 - gameservers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%202587%20-%20gameservers.sql
+END
+Rev 1299 - accountdata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%201299%20-%20accountdata.sql
+END
+Rev1789 - tasks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev1789%20-%20tasks.sql
+END
+Rev 1060 - ingameshop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%201060%20-%20ingameshop.sql
+END
+Rev 1140 - membership.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%201140%20-%20membership.sql
+END
+accoun_data_path.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/accoun_data_path.sql
+END
+Rev 2152 - ingameshop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev%202152%20-%20ingameshop.sql
+END
+Rev2785 - foreign keys and tasks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/sql/updates/Rev2785%20-%20foreign%20keys%20and%20tasks.sql
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/npc_walker
+END
+npc_walker.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/npc_walker/npc_walker.xsd
+END
+npc_walker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/npc_walker/npc_walker.xml
+END
+custom_npc_walker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/npc_walker/custom_npc_walker.xml
+END

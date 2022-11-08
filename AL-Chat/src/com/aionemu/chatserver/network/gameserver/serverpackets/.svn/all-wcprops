@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/gameserver/serverpackets
+END
+SM_GS_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/gameserver/serverpackets/SM_GS_AUTH_RESPONSE.java
+END
+SM_PLAYER_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Chat/src/com/aionemu/chatserver/network/gameserver/serverpackets/SM_PLAYER_AUTH_RESPONSE.java
+END

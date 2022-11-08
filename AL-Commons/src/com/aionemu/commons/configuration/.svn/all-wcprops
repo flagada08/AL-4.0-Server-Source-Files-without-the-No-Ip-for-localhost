@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration
+END
+PropertyTransformerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/PropertyTransformerFactory.java
+END
+ConfigurableProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/ConfigurableProcessor.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/Property.java
+END
+TransformationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/TransformationException.java
+END
+PropertyTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Commons/src/com/aionemu/commons/configuration/PropertyTransformer.java
+END

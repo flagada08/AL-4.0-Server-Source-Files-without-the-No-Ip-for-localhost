@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier
+END
+ActionModifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/ActionModifiers.java
+END
+TargetRaceDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/TargetRaceDamageModifier.java
+END
+FrontDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/FrontDamageModifier.java
+END
+AbnormalDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/AbnormalDamageModifier.java
+END
+TargetClassDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/TargetClassDamageModifier.java
+END
+ActionModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/ActionModifier.java
+END
+BackDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/skillengine/effect/modifier/BackDamageModifier.java
+END

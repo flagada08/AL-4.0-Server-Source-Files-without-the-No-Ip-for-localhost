@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/trigger
+END
+TaskFromDBTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/trigger/TaskFromDBTrigger.java
+END
+FixedInTimeTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/trigger/FixedInTimeTrigger.java
+END
+AfterRestartTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/trigger/AfterRestartTrigger.java
+END
+TaskFromDBTriggerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/taskmanager/fromdb/trigger/TaskFromDBTriggerHolder.java
+END

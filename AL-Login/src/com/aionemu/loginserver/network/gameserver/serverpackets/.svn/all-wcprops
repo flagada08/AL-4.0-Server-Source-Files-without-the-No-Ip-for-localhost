@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets
+END
+SM_PTRANSFER_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_PTRANSFER_RESPONSE.java
+END
+SM_GS_CHARACTER_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_GS_CHARACTER_RESPONSE.java
+END
+SM_ACCOUNT_RECONNECT_KEY.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_ACCOUNT_RECONNECT_KEY.java
+END
+SM_REQUEST_KICK_ACCOUNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_REQUEST_KICK_ACCOUNT.java
+END
+SM_GS_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_GS_AUTH_RESPONSE.java
+END
+SM_ACCOUNT_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_ACCOUNT_AUTH_RESPONSE.java
+END
+SM_LS_CONTROL_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_LS_CONTROL_RESPONSE.java
+END
+SM_MACBAN_LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_MACBAN_LIST.java
+END
+SM_PREMIUM_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_PREMIUM_RESPONSE.java
+END
+SM_PING.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_PING.java
+END
+SM_BAN_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/src/com/aionemu/loginserver/network/gameserver/serverpackets/SM_BAN_RESPONSE.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai
+END
+HouseSignAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/HouseSignAI2.java
+END
+InstanceTimerAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/InstanceTimerAI2.java
+END
+SummonerAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/SummonerAI2.java
+END
+InvisiblekiskAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/InvisiblekiskAI2.java
+END
+ChestAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/ChestAI2.java
+END
+OneDmgAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/OneDmgAI2.java
+END
+NoActionAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/NoActionAI2.java
+END
+ResurrectAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/ResurrectAI2.java
+END
+AbyssGuardSimpleAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/AbyssGuardSimpleAI2.java
+END
+FirecrackerAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/FirecrackerAI2.java
+END
+HomingNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/HomingNpcAI2.java
+END
+HouseGateAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/HouseGateAI2.java
+END
+InvisibleNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/InvisibleNpcAI2.java
+END
+BookAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/BookAI2.java
+END
+ActionItemNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/ActionItemNpcAI2.java
+END
+ArtifactAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/ArtifactAI2.java
+END
+PostboxAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/PostboxAI2.java
+END
+AggressiveNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/AggressiveNpcAI2.java
+END
+FollowingNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/FollowingNpcAI2.java
+END
+ShifterAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/ShifterAI2.java
+END
+AggressiveFirstSkillAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/AggressiveFirstSkillAI2.java
+END
+TrapNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/TrapNpcAI2.java
+END
+SkillAreaNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/SkillAreaNpcAI2.java
+END
+BubblegutAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/BubblegutAI2.java
+END
+GeneralNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/GeneralNpcAI2.java
+END
+BombAi2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/BombAi2.java
+END
+DeliveryManAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/DeliveryManAI2.java
+END
+ServantNpcAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/ServantNpcAI2.java
+END
+GeneralFirstSkillAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/GeneralFirstSkillAI2.java
+END
+OneDmgPerHitAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/OneDmgPerHitAI2.java
+END
+SpeakerAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/SpeakerAI2.java
+END
+DummyAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/DummyAI2.java
+END
+GroupGateAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/GroupGateAI2.java
+END
+ButlerAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/ai/ButlerAI2.java
+END
+KiskAI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/ai/KiskAI2.java
+END

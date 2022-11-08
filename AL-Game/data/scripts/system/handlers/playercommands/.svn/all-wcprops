@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/playercommands
+END
+cmd_answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_answer.java
+END
+cmd_clean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_clean.java
+END
+cmd_faction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/7/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_faction.java
+END
+cmd_transfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_transfer.java
+END
+cmd_questrestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_questrestart.java
+END
+cmd_noexp.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_noexp.java
+END
+cmd_mcheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_mcheck.java
+END
+cmd_questauto.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_questauto.java
+END
+cmd_toll.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/scripts/system/handlers/playercommands/cmd_toll.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/siege
+END
+siege_locations.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/siege/siege_locations.xsd
+END
+siege_shields.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/siege/siege_shields.xsd
+END
+siege_locations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pt-emu.ALSRC/!svn/ver/5/trunk/AL-Game/data/static_data/siege/siege_locations.xml
+END
+siege_shields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/data/static_data/siege/siege_shields.xml
+END

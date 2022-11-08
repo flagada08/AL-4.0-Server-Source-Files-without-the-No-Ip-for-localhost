@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/group/callback
+END
+AddPlayerToGroupCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/group/callback/AddPlayerToGroupCallback.java
+END
+PlayerGroupCreateCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/group/callback/PlayerGroupCreateCallback.java
+END
+PlayerGroupDisbandCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Game/src/com/aionemu/gameserver/model/team2/group/callback/PlayerGroupDisbandCallback.java
+END

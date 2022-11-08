@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5
+END
+MySQL5BannedIpDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5BannedIpDAO.java
+END
+MySQL5DAOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5DAOUtils.java
+END
+MySQL5PlayerTransferDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5PlayerTransferDAO.java
+END
+MySQL5GameServersDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5GameServersDAO.java
+END
+MySQL5BannedMacDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5BannedMacDAO.java
+END
+MySQL5AccountTimeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5AccountTimeDAO.java
+END
+MySQL5AccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5AccountDAO.java
+END
+MySQL5TaskFromDBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5TaskFromDBDAO.java
+END
+MySQL5PremiumDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pt-emu.ALSRC/!svn/ver/2/trunk/AL-Login/data/scripts/system/database/mysql5/MySQL5PremiumDAO.java
+END
